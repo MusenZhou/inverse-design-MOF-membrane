@@ -721,9 +721,9 @@ def fitness_func(solution, solution_idx):
 
 
 
-path_save_pormake_topo_list = './full_pormake_topo_list.p'
-path_save_pormake_node_list = './full_pormake_node_list.p'
-path_save_pormake_linker_list = './full_pormake_linker_list.p'
+path_save_pormake_topo_list = './database/full_pormake_topo_list.p'
+path_save_pormake_node_list = './database/full_pormake_node_list.p'
+path_save_pormake_linker_list = './database/full_pormake_linker_list.p'
 
 path_exe_ethane_cif2input = './utility/pormake_cif2input_ethane'
 path_exe_ethene_cif2input = './utility/pormake_cif2input_ethene'
